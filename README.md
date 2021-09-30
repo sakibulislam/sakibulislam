@@ -50,7 +50,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 -->
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg"></code>
-<!--<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg"></code>-->
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg"></code>
