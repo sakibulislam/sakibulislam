@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/11413910/sakibul-islam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Sakibul Islam | Stack Overflow" height="22px" width="22px" /></a>
 
 
-<a href="https://dev.to/sakibulislam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sakibul Islam | DEV Community" width="22" /></a>
+<a href="https://dev.to/sakibulislam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sakibul Islam | DEV Community" height="27ppx" width="28px" /></a>
 
 <a href="https://medium.com/@sakibulislam2241" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Sakibul Islam | Medium" height="22" width="22" /></a>
 
