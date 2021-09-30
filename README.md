@@ -1,29 +1,33 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Sakibul Islam </h1>
-<h3 align="center"> A Software Engineer | RPA Application Developer | Java Application Developer | Python Appliaction Developer 😁 </h3>
+<h3 align="center"> A Software Engineer | RPA Application Developer | Java Application Developer | Python Appliaction Developer </h3>
 
 
-<a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sakibulislam/">
+  <img align="left" alt="Sakibul Islam's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/ShahriyarMitul">
-  <img align="left" alt="Mitul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/sakibulislam">
+  <img align="left" alt="Sakibul Islam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<!--
 <a href="mailto:shahriyarmitul382@gmail.com ">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+-->
 
+<!--
 <a href="https://discord.gg/yzegezxsd8">
   <img align="left" alt="Learn With Mitul Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+-->
 
-<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="22px" width="22px" /></a>
+<a href="https://stackoverflow.com/users/11413910/sakibul-islam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Sakibul Islam | Stack Overflow" height="22px" width="22px" /></a>
 
-<a href="https://medium.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
+<a href="https://medium.com/@sakibulislam2241" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Sakibul Islam | Medium" height="22" width="22" /></a>
 
-<a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="22" width="22" /></a>
+<a href="https://www.youtube.com/channel/UCTlTE1KmG4G4-j4P6remoQQ " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sakibul Islam | YouTube" height="22" width="22" /></a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
@@ -34,6 +38,7 @@
 
 
 
+<!--
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Data Science, ML , Ai, Kubernetes, Web Dev, Machine Learning, DevOps. </br>
@@ -52,7 +57,7 @@
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
 - Became [Postman Student Expert](https://badgr.com/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) after completing training on Postman
 
-
+-->
 
 
 
