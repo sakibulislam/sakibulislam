@@ -25,13 +25,19 @@
 
 <a href="https://stackoverflow.com/users/11413910/sakibul-islam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Sakibul Islam | Stack Overflow" height="22px" width="22px" /></a>
 
+
+<a href="https://dev.to/sakibulislam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sakibul Islam | DEV Community" height="22" width="22" /></a>
+
 <a href="https://medium.com/@sakibulislam2241" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Sakibul Islam | Medium" height="22" width="22" /></a>
 
 <a href="https://www.youtube.com/channel/UCTlTE1KmG4G4-j4P6remoQQ " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sakibul Islam | YouTube" height="22" width="22" /></a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sakibulislam.sakibulislam&left_color=green&right_color=red)
 <br />
+
 
 <!--For adding Gif
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
@@ -63,7 +69,13 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="mitul3737" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="mitul3737" /> 
+
+<br />
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakibulislam&show_icons=true&theme=gotham" alt="sakibulislam" /> 
+  
+<!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
@@ -75,7 +87,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
 
 
-
+<!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating Your First Auth0 Action](https://dev.to/mitul3737/creating-your-first-auth0-action-ehj)
@@ -100,3 +112,4 @@ Docker       4 mins          █░░░░░░░░░░░░░░░░
 
   
  ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
+-->
