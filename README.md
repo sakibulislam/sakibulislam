@@ -26,16 +26,17 @@
 <a href="https://stackoverflow.com/users/11413910/sakibul-islam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Sakibul Islam | Stack Overflow" height="22px" width="22px" /></a>
 
 
-<a href="https://dev.to/sakibulislam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sakibul Islam | DEV Community" height="22" width="22" /></a>
+<a href="https://dev.to/sakibulislam" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Sakibul Islam | DEV Community" width="22" /></a>
 
 <a href="https://medium.com/@sakibulislam2241" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Sakibul Islam | Medium" height="22" width="22" /></a>
 
 <a href="https://www.youtube.com/channel/UCTlTE1KmG4G4-j4P6remoQQ " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sakibul Islam | YouTube" height="22" width="22" /></a>
 
-
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
+-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sakibulislam.sakibulislam&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=sakibulislam.sakibulislam)
 <br />
 
 
@@ -69,15 +70,17 @@
 
 📈 My GitHub Stats
 
+<!--
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="mitul3737" /> 
 
 <br />
-  
+-->  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakibulislam&show_icons=true&theme=gotham" alt="sakibulislam" /> 
   
-<!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula/ gotham-->
   
- <!--Adding private contributions count to total commits count
+<!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)-->
@@ -89,27 +92,33 @@
 
 <!--
 ### Blogs posts
+-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Creating Your First Auth0 Action](https://dev.to/mitul3737/creating-your-first-auth0-action-ehj)
 - [How I got selected into the national level of“ Cisco 2021 National Skill Competition Bangladesh :](https://shahriyarmitul3737.medium.com/how-i-got-selected-into-the-national-level-of-cisco-2021-national-skill-competition-bangladesh-b2a31de7b77a?source=rss-c1edac92734b------2)
 - [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
 - [My first open-source contribution at “Hacktoberfest 2020](https://shahriyarmitul3737.medium.com/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
+-->
 <!-- BLOG-POST-LIST:END -->
 
 
+<!--
 ### Coding Stats
 <!--START_SECTION:waka-->
+<!--  
 ```text
 YAML         1 hr 15 mins    ██████████████▓░░░░░░░░░░   58.67 % 
 Other        39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.66 % 
 Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 Docker       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
+-->
 <!--END_SECTION:waka-->
 
 
 <!--..-->
 
-  
+<!--  
  ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
 -->
